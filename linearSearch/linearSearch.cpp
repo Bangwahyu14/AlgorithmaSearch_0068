@@ -18,4 +18,8 @@ void input()
 
 	}
 
+	// Accept array elements
+	cout << "\n--------------------\n";
+
+
 }
